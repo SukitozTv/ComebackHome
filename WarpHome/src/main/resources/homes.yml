@@ -1,0 +1,70 @@
+A_Qwerty0447:
+  fluk:
+    ==: org.bukkit.Location
+    world: world
+    x: -30.156732579909228
+    y: 69.0
+    z: -79.5446385564971
+    pitch: 35.157223
+    yaw: 151.27542
+fifa:
+  fifa:
+    ==: org.bukkit.Location
+    world: world
+    x: 13.730467560692517
+    y: 79.0
+    z: 203.71861568483783
+    pitch: 20.316847
+    yaw: -0.2816062
+Norapezxz:
+  ender:
+    ==: org.bukkit.Location
+    world: world_the_end
+    x: 100.2335049038768
+    y: 49.0
+    z: 0.05885999451797155
+    pitch: 34.514767
+    yaw: -56.628296
+  หนอน:
+    ==: org.bukkit.Location
+    world: world
+    x: -282.1563060449493
+    y: 69.0
+    z: 1712.8543808401926
+    pitch: 29.84622
+    yaw: 151.05414
+  enderv:
+    '1':
+      ==: org.bukkit.Location
+      world: world_the_end
+      x: 237.30000001192093
+      y: 48.5
+      z: 0.5882450283945998
+      pitch: -12.798917
+      yaw: 86.47986
+  flyv:
+    '1':
+      ==: org.bukkit.Location
+      world: world_the_end
+      x: -2456.043380004677
+      y: 142.0
+      z: 14845.513186997468
+      pitch: 58.327885
+      yaw: -92.098305
+Wxrexyz:
+  wxrexyz:
+    ==: org.bukkit.Location
+    world: world
+    x: -273.62740946040407
+    y: 69.0
+    z: 1708.504668937793
+    pitch: 10.500185
+    yaw: 69.629395
+  netherlight:
+    ==: org.bukkit.Location
+    world: world_nether
+    x: 20.308867750491327
+    y: 13.0
+    z: 187.69999998807907
+    pitch: 3.8916504
+    yaw: -103.91724

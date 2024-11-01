@@ -1,0 +1,13 @@
+name: WarpHome
+version: 1.0
+main: me.flukky.Main
+api-version: 1.16
+commands:
+  sethome:
+    description: ตั้งบ้านใหม่
+    usage: /sethome <home_name>
+    aliases: [sh]
+  home:
+    description: ย้ายไปบ้านที่ตั้งไว้
+    usage: /home <home_name>
+    aliases: [h]
